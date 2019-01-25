@@ -91,10 +91,14 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+nikitha mandala 
 
-dcase@nwmissouri.edu
+s534639@nwmissouri.edu
 
 ## New Section 
 
+Hi, Myself nikitha mandala.
+
+1. https://nwmissouri.instructure.com/
+2. https://www.nwmissouri.edu
 
